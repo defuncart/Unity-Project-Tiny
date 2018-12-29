@@ -9,7 +9,7 @@ A simple *Hello World* project which follow's Mike Geig's [Basic Workshop](https
 
 ### How to Play
 
-The game can be played [here](/Builds/index.html).
+The game can be played [here](/docs/PT01-HelloWorld/index.html).
 
 The goal of the game is to avoid oncoming alien spaceships. Your spaceship can be moved using WSAD (up, down, left, right respectively). **Note** that touch input isn't supported.
 
